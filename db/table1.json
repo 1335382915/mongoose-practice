@@ -1,0 +1,2 @@
+{"_id":"5b503d4fdb3b582c9c1ea644","foodName":"苹果","foodKJ":1000,"categoryId":"5b5031dc67f0fc19b0446434"}
+{"_id":{"$oid":"5b503e6832734a27bc2e4f46"},"foodName":"黄瓜","foodKJ":1000,"categoryId":{"$oid":"5b50322e32734a27bc2e4f41"},"__v":0}
